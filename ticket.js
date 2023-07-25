@@ -70,6 +70,6 @@ document.addEventListener("DOMContentLoaded", function () {
       )}`;
 
       // Redirect to the success page with query parameters
-      window.location.href = `success.html${queryParams}`;
+      window.location.href = `sucess.html${queryParams}`;
     });
 });
